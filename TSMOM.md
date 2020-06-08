@@ -12,7 +12,7 @@ To answer these questions, let's do a guided literature review. This literature 
 
 ## Existing Research
 
-The seminal contribbution is [MOP2012](https://cyberleninka.org/article/n/1285206.pdf) where they first gather evidence for existence of large and consistent reward for trend-following. Later a follow up piece with longer history and more country coverage is published [HOP2017]. The key features of MOP approach are:
+The seminal contribbution is [MOP2012](https://cyberleninka.org/article/n/1285206.pdf) where they first gather evidence for existence of large and consistent reward for trend-following. Later a follow up piece with longer history and more country coverage is published [HOP2017](https://ssrn.com/abstract=2993026). [BK2013](https://pdfs.semanticscholar.org/bb77/345826f66a840bb24ff1c66108e53d00f3bc.pdf) provides some practical along many dimensions such as how to estimate properly the volatility. The key features of MOP approach are:
 
 1. They scale recent return by an estimate of recent volatility in the stage of portfolio construction
 2. Their regression analysis is done via pooling all assets (future contracts of different assets)
@@ -30,6 +30,8 @@ Naturally, scholars debate. [ATW2016] attributes much of the alhpa to volatility
 [HOP2017]: Hurst, Brian and Ooi, Yao Hua and Pedersen, Lasse Heje, A Century of Evidence on Trend-Following Investing (June 27, 2017). Available at SSRN: https://ssrn.com/abstract=2993026 or http://dx.doi.org/10.2139/ssrn.2993026 
 
 [ATW2016]: Kim, Abby Y., Yiuman Tse, and John K. Wald. "Time series momentum and volatility scaling." Journal of Financial Markets 30 (2016): 103-124.
+
+[BK2013]: AKINDYNOS-NIKOLAOS BALTAS, ANDROBERT KOSOWSKI. "Improving Time-Series Momentum Strategies:The Role of Trading Signals and Volatility Estimators"
 
 
 TODO:
