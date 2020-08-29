@@ -5,3 +5,6 @@
 - Tensorflow Probability distribution shapes (the messy bit): (https://ericmjl.github.io/blog/2019/5/29/reasoning-about-shapes-and-probability-distributions/)
 - A good intro to Tensor algebra and notation: (http://www.ita.uni-heidelberg.de/~dullemond/lectures/tensor/tensor.pdf）
 - Colah's highly intuitive explaination of core concepts in machine learning: (https://colah.github.io）
+
+## Machine Learning
+- A good self contained and practical-oriented course (ends with CNN) https://cs231n.github.io/
