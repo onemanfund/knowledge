@@ -5,4 +5,4 @@
 
 High frequency data review is [here](HF.md)
 
-[Volatility and Leverage](vol_lev.md
+[Volatility and Leverage](vol_lev.md)
